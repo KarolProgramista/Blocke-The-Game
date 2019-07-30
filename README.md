@@ -9,7 +9,7 @@ Lelft Arrow - Move left.
 Right Arrow - Move right.
 
 Libraries you need:
-Pygame
+1. Pygame
 
 
 THANKS FOR DOWNLOAD!!!!
