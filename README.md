@@ -8,6 +8,9 @@ Controls:
 Lelft Arrow - Move left.
 Right Arrow - Move right.
 
+Libraries you need:
+Pygame
+
 
 THANKS FOR DOWNLOAD!!!!
 
